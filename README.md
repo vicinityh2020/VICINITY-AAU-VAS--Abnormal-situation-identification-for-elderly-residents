@@ -15,8 +15,8 @@ Adapter runs on Python 3.6.
 # Adapter changelog by version
 Adapter releases are as aau_adapter_x.y.z.py
 
-## 0.0.1
-Start version, it works with agent-service-full-0.6.3.jar, and it subscribes to the events of PlacePod parking sensor usage and GRN smart refrigerator #7 door status. 
+## 1.0.0
+First version, it works with agent-service-full-0.6.3.jar, and it subscribes to the events of PlacePod parking sensor usage and GRN smart refrigerator #7 door status. 
 
 # Functionality and API
 
