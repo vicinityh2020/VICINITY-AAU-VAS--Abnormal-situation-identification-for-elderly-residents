@@ -6,7 +6,7 @@ Parking slot usage data is collected through VICINITY by using three parking sen
 
 Adapter serves as the interface between VICINITY and LabVIEW enabling to use all required interaction patterns.
 
-![Image text](https://github.com/YajuanGuan/ pics/Abnormal situation identification for elderly residents.png)
+![Image text](https://github.com/YajuanGuan/pics/Abnormal situation identification for elderly residents.png)
 
 # Configuration and deployment
 
@@ -20,7 +20,7 @@ Start version, it works with agent-service-full-0.6.3.jar, and it subscribes to 
 
 # Functionality and API
 
-## Publish an event to the subscribers. 
+## Publish an event to the subscribers
 ### Endpoint:
             PUT /objects/{oid}/events/{eid}
 Publish the emergency alarm, the reserved parking slot number (0/1) and current time. 
