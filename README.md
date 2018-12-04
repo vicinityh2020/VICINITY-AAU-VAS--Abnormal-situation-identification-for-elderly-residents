@@ -7,7 +7,7 @@ Parking slot usage data is collected through VICINITY by using three parking sen
 
 Adapter serves as the interface between VICINITY and LabVIEW enabling to use all required interaction patterns.
 
-![Image text](https://github.com/YajuanGuan/pics/AbnormalElderly.png)
+![Image text](https://github.com/YajuanGuan/pics/blob/master/AbnormalElderly.png)
 
 # Configuration and deployment
 
